@@ -1,7 +1,7 @@
-# Aplicativo Mobile: Pedra Papel ou tesoura
+# Aplicativo Mobile: Pedra Papel ou Tesoura
 
 ## IDE Utilizada:
-### AndroidStudio 2022
+   AndroidStudio 2022
 
 ## Linguagem:
-### Java
+   Java
